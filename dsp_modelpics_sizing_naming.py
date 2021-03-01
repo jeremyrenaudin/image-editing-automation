@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 29 19:07:47 2020
-
-@author: renaudij
-"""
 
 import os
 import PIL
