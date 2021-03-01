@@ -4,7 +4,7 @@ import PIL
 from PIL import Image
 
 # Address of the folder in which your original pictures are saved
-originals_directory = r'C:\Users\renaudij\Documents\DSPC MANAGEMENT 2020\video_files\test_script'
+originals_directory = r'C:\Users\...'
 
 # Create a folder for small size pictures
 os.mkdir(os.path.dirname(originals_directory)+'\dsp_model')
